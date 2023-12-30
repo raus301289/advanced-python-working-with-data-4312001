@@ -8,7 +8,7 @@ Data science is one of the fastest-growing areas of technology today. And whethe
 
 ### Instructor
 
-Joe Marinii 
+Joe Marini
                             
 Senior Director of Product and Engineering
 
